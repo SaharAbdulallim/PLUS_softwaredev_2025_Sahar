@@ -84,8 +84,14 @@ It relates to our final project "Developing QGIS Plugin for VirtuGhan" and suppo
    - Right: NDVI (`imshow(ndvi, cmap="RdYlGn", vmin=-1, vmax=1)`)  
    - Include a colorbar showing the full NDVI range.
 
+---
+
+## ➡️ Using VirtuGhan to Replace the Low‐Level STAC + Rasterio Workflow
+
+Instead of manually calling `pystac-client`, `planetary_computer`, `rasterio`, and custom downsampling code, we can use the VirtuGhan Python package (which wraps everything into one high‐level API). in the notebook , I tried VirtuGhan for one tile computation to showe how VirtuGhan does the STAC search, COG reads, downsampling, and NDVI computation in just a few lines. You can know more about Virughan python package thourh this link : [VirtuGhan](https://github.com/kshitijrajsharma/virtughan/tree/master)
 
 ---
+
 
 
 
