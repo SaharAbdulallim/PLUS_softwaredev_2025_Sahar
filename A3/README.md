@@ -1,5 +1,5 @@
 #By Sahar Mohamed
-# 🛰️ Assignment A3 – Sentinel-2 RGB & NDVI (Downsampled) via STAC + Rasterio
+# 🛰️ Assignment A3 – Sentinel-2 NDVI via STAC + Rasterio vs VirtuGhan
 
 ## 📌 Overview
 
@@ -10,8 +10,9 @@ This notebook demonstrates how to:
 4. Compute NDVI = (NIR – Red) / (NIR + Red) on the downsampled arrays.
 5. Apply a percentile stretch for RGB display and plot RGB alongside NDVI.
 6. Save the downsampled NDVI as a GeoTIFF
+7. Use VirthuGhan to replace all of the above with just few line s of code without the need to install any dependincies.
    
-It relates to our final project "Developing QGIS Plugin for VirtuGhan" and supports the Tiler, Extractor and Engine modules which perform on-the-fly tile retrieval and index computation.
+It relates to our final project "Developing QGIS Plugin for VirtuGhan" and supports the Tiler, Extractor and Engine modules which perform on-the-fly tile retrieval and index computation. I did a comparison between both to show you the difference.
 
 
 ---
