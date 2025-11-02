@@ -20,15 +20,15 @@
 ![image](https://github.com/user-attachments/assets/550dc95e-6989-4efd-bb6d-d7ce477c43db)
 
 
-## All Done & Feeling Awesome
+## All Done
 ![image](https://github.com/user-attachments/assets/f6a4e8da-354c-44b1-b534-d52c7cfff956)
 
 
-## Bonus: Geopandas Installation Challenge 🌍📦
+## Bonus: Geopandas Installation Challenge
 ### Activated the (software_dev_v2) environment and tried installing geopandas 🌐:
 ![image](https://github.com/user-attachments/assets/0141410d-2c76-41ce-b4de-f94f1e6e622d)
 
-## Both Environments in Action: Double Trouble! ⚡⚡
+## Both Environments in Action:
 ### Now, both environments are rocking and rolling. Check out the proof:
 ![image](https://github.com/user-attachments/assets/7c994b83-7dbc-4c36-bc02-dc12b8972ba9)
 
